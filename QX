@@ -1,0 +1,123 @@
+vmess = 52.175.70.249:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=52.175.70.249, obfs-uri=/, udp-relay=true, tag=🇭🇰 HongKong01
+vmess = 52.175.70.249:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=52.175.70.249, obfs-uri=/, udp-relay=true, tag=🇭🇰 HongKong02
+vmess = 52.175.70.249:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=52.175.70.249, obfs-uri=/, udp-relay=true, tag=🇭🇰 HongKong03
+vmess = 52.175.70.249:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=52.175.70.249, obfs-uri=/, udp-relay=true, tag=🇭🇰 HongKong04
+vmess = 52.175.70.249:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=52.175.70.249, obfs-uri=/, udp-relay=true, tag=🇭🇰 HongKong05
+vmess = 18.162.48.33:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, udp-relay=true, tag=🇭🇰 HongKong06
+vmess = 18.162.48.33:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, udp-relay=true, tag=🇭🇰 HongKong07
+vmess = 13.112.36.10:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=13.112.36.10, obfs-uri=/, udp-relay=true, tag=🇯🇵 Japan01
+vmess = 13.112.36.10:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=13.112.36.10, obfs-uri=/, udp-relay=true, tag=🇯🇵 Japan02
+vmess = 54.150.253.138:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=54.150.253.138, obfs-uri=/, udp-relay=true, tag=🇯🇵 Japan03
+vmess = 54.150.253.138:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=54.150.253.138, obfs-uri=/, udp-relay=true, tag=🇯🇵 Japan04
+vmess = 13.229.111.12:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=13.229.111.12, obfs-uri=/, udp-relay=true, tag=🇸🇬 Singapore01
+vmess = 13.229.111.12:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=13.229.111.12, obfs-uri=/, udp-relay=true, tag=🇸🇬 Singapore02
+vmess = 13.229.111.12:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=13.229.111.12, obfs-uri=/, udp-relay=true, tag=🇸🇬 Singapore03
+vmess = 152.67.194.150:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=152.67.194.150, obfs-uri=/, udp-relay=true, tag=🇰🇷 Korea01
+vmess = 152.67.200.216:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=152.67.200.216, obfs-uri=/, udp-relay=true, tag=🇰🇷 Korea02
+vmess = 152.67.222.55:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=152.67.222.55, obfs-uri=/, udp-relay=true, tag=🇰🇷 Korea03
+vmess = 146.56.119.213:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=146.56.119.213, obfs-uri=/, udp-relay=true, tag=🇰🇷 Korea04
+vmess = 154.208.10.167:11145, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=154.208.10.167, obfs-uri=/, udp-relay=true, tag=🇺🇲 UnitedStates02
+vmess = 209.141.41.174:80, method=chacha20-ietf-poly1305, password=967bb273-3981-4849-9eee-2e52a70b7c95, obfs=ws, obfs-host=209.141.41.174, obfs-uri=/, udp-relay=true, tag=🇺🇲 UnitedStates01
+shadowsocks = 123mgy.com:10086, method=chacha20-ietf, password=XFkhoS, tag=🏳️‍🌈 ️‍🌈 过期时间：2021-08-21
+vmess = 123mgy.com:10086, method=chacha20-ietf-poly1305, password=7dae475a-5067-3077-91c3-91cee9605260, tag=🏳️‍🌈 ️‍🌈 过期时间：2021-08-21 2
+vmess = de1.2mgy.com:11001, method=chacha20-ietf-poly1305, password=7dae475a-5067-3077-91c3-91cee9605260, obfs=ws, obfs-host=de1.2mgy.com, obfs-uri=/v2ray, tag=🇩🇪 德国｜DE-01｜原生直连
+vmess = gy1.za8.xyz:10002, method=chacha20-ietf-poly1305, password=7dae475a-5067-3077-91c3-91cee9605260, obfs=ws, obfs-host=jp1.2mgy.com, obfs-uri=/v2ray, tag=🇯🇵 日本东京｜JP-01
+vmess = us1.2mgy.com:11050, method=chacha20-ietf-poly1305, password=7dae475a-5067-3077-91c3-91cee9605260, obfs=ws, obfs-host=us1.2mgy.com, obfs-uri=/v2ray, tag=🇺🇲 美国｜US-01｜原生直连
+vmess = gy1.za8.xyz:10003, method=chacha20-ietf-poly1305, password=7dae475a-5067-3077-91c3-91cee9605260, obfs=ws, obfs-host=kr1.2mgy.com, obfs-uri=/v2ray, tag=🇰🇷 韩国｜KR-01
+vmess = gy1.za8.xyz:10001, method=chacha20-ietf-poly1305, password=7dae475a-5067-3077-91c3-91cee9605260, obfs=ws, obfs-host=hk1.2mgy.com, obfs-uri=/v2ray, tag=🇭🇰 香港｜HK-01
+shadowsocks = www.google.com:1, method=aes-256-cfb, password=breakwall, ssr-protocol=auth_aes128_sha1, obfs=tls1.2_ticket_auth, tag=🏳️‍🌈 ️‍🌈 ️‍🌈 过期时间：2021-11-09 23:54:35
+shadowsocks = relayneko.q88q.ml:25171, method=aes-256-cfb, password=epChJS35fV, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=25808:EUteff, obfs=tls1.2_ticket_auth, obfs-host=1ab3b25808.baidu.com, tag=🇮🇩 印度尼西亚 免费节点(雅加达)★
+shadowsocks = agahk.q88q.ml:20023, method=aes-256-cfb, password=epChJS35fV, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=25808:EUteff, obfs=tls1.2_ticket_auth, obfs-host=1ab3b25808.baidu.com, tag=🇩🇪 德国 AGA│免费节点◆
+shadowsocks = gz3.q88q.gq:30011, method=aes-256-cfb, password=epChJS35fV, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=25808:EUteff, obfs=tls1.2_ticket_auth, obfs-host=1ab3b25808.baidu.com, tag=🇺🇲 美国 免费节点(洛杉矶1)▲
+shadowsocks = gz.q88q.gq:12168, method=aes-256-cfb, password=epChJS35fV, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=25808:EUteff, obfs=tls1.2_ticket_auth, obfs-host=1ab3b25808.baidu.com, tag=🇺🇲 美国 免费节点(洛杉矶2)●
+shadowsocks = agahk.q88q.ml:20001, method=aes-256-cfb, password=epChJS35fV, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=25808:EUteff, obfs=tls1.2_ticket_auth, obfs-host=1ab3b25808.baidu.com, tag=🇬🇧 英国 AGA│免费节点◆
+shadowsocks = gz3.q88q.gq:30012, method=aes-256-cfb, password=epChJS35fV, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=25808:EUteff, obfs=tls1.2_ticket_auth, obfs-host=1ab3b25808.baidu.com, tag=🇵🇭 菲律宾 免费节点(马尼拉)▲
+shadowsocks = agahk.q88q.ml:20019, method=aes-256-cfb, password=epChJS35fV, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=25808:EUteff, obfs=tls1.2_ticket_auth, obfs-host=1ab3b25808.baidu.com, tag=🇻🇳 越南 AGA│免费节点◆
+shadowsocks = relayneko.q88q.ml:25163, method=aes-256-cfb, password=epChJS35fV, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=25808:EUteff, obfs=tls1.2_ticket_auth, obfs-host=1ab3b25808.baidu.com, tag=🇭🇰 香港  免费节点(HKT2 500MB)★
+shadowsocks = relayneko.q88q.ml:12161, method=aes-256-cfb, password=epChJS35fV, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=25808:EUteff, obfs=tls1.2_ticket_auth, obfs-host=1ab3b25808.baidu.com, tag=🇭🇰 香港 免费节点(EC2负载均衡)★
+shadowsocks = relayneko.q88q.ml:25173, method=aes-256-cfb, password=epChJS35fV, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=25808:EUteff, obfs=tls1.2_ticket_auth, obfs-host=1ab3b25808.baidu.com, tag=馬來西亞 免費节点(吉隆坡)★
+vmess = 112.31.48.108:48068, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=112.31.48.108, obfs-uri=/videos, udp-relay=true, tag=🇭🇰 香港07
+vmess = 112.31.48.108:48072, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=112.31.48.108, obfs-uri=/videos, udp-relay=true, tag=🇭🇰 香港08
+vmess = 120.232.173.176:43784, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=120.232.173.176, obfs-uri=/videos, udp-relay=true, tag=🇭🇰 香港09
+vmess = 120.232.173.176:32132, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=120.232.173.176, obfs-uri=/videos, udp-relay=true, tag=🇭🇰 香港10
+vmess = 112.31.48.108:27003, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=112.31.48.108, obfs-uri=/videos, udp-relay=true, tag=🇭🇰 香港11
+vmess = 112.31.48.108:32671, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=112.31.48.108, obfs-uri=/videos, udp-relay=true, tag=🇭🇰 香港12
+vmess = nk_zhongzhuan_cs.wrqvpn.com:62608, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=nk_zhongzhuan_cs.wrqvpn.com, obfs-uri=/videos, udp-relay=true, tag=🇯🇵 日本01
+vmess = nk_zhongzhuan_cs.wrqvpn.com:26105, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=nk_zhongzhuan_cs.wrqvpn.com, obfs-uri=/videos, udp-relay=true, tag=🇯🇵 日本02
+vmess = 120.232.173.176:49327, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=120.232.173.176, obfs-uri=/videos, udp-relay=true, tag=🇸🇬 新加坡01
+vmess = 120.232.173.176:26565, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=120.232.173.176, obfs-uri=/, udp-relay=true, tag=🇸🇬 新加坡02
+vmess = 157.245.194.176:1111, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=157.245.194.176, obfs-uri=/videos, udp-relay=true, tag=🇸🇬 新加坡03
+vmess = 157.245.194.176:55581, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=157.245.194.176, obfs-uri=/videos, udp-relay=true, tag=🇸🇬 新加坡04
+vmess = 104.128.94.76:1232, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=104.128.94.76, obfs-uri=/, udp-relay=true, tag=🇺🇲 美国01*(美西)洛杉矶
+vmess = 104.128.94.76:1222, method=chacha20-ietf-poly1305, password=e2c2b602-120f-45d7-92df-5006879fcf00, obfs=ws, obfs-host=104.128.94.76, obfs-uri=/, udp-relay=true, tag=🇺🇲 美国02*(美西)洛杉矶
+shadowsocks = localhost:48978, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=🇸🇬 TG群组@caofeimer 请注意及时更新订阅
+shadowsocks = localhost:48978, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=主站 18t.team 可获得更好的网络体验
+shadowsocks = ajp.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=🇯🇵 SS JP - AWS NTT
+shadowsocks = ajp2.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=🇯🇵 SS JP - AWS NTT #2
+shadowsocks = jru.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=🇷🇺 SS RU - JustHost Mos CN2
+shadowsocks = sg.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=🇸🇬 SS SG - NeroCloud BGP
+shadowsocks = shcn2.misaka.rest:53306, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=🇸🇬 SS SG - SH CN2 -> NC BGP
+shadowsocks = bv.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=🇺🇲 SS US - BuyVM LV
+shadowsocks = du1.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=🇺🇲 SS US - DogY. CN2 #1 45Mbps Limited
+shadowsocks = du2.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=🇺🇲 SS US - DogY. CN2 #2 30Mbps Limited
+shadowsocks = tchk.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=🇭🇰 SS HK - CN2/BGP 30Mbps Limited
+shadowsocks = ahk.misaka.rest:11451, method=aes-256-gcm, password=985934be-4062-4cf4-9c17-efe39165c388, udp-relay=true, tag=🇭🇰 SS HK - AsunaC. NTT/BGP
+shadowsocks = www.mfyun.org:10086, method=chacha20-ietf, password=g8cHLT, tag=🏳️‍🌈 ️‍🌈 ️‍🌈 ️‍🌈 ️‍🌈 过期时间：2021-08-29
+vmess = www.mfyun.org:10086, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, tag=🏳️‍🌈 ️‍🌈 ️‍🌈 ️‍🌈 ️‍🌈 过期时间：2021-08-29 2
+vmess = 43.128.29.76:84, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk1.mfyun.org, obfs-uri=/mfyun.m3u8, tag=🇭🇰 [V1]香港直连 1
+vmess = 129.226.100.230:87, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk2.mfyun.org, obfs-uri=/mfyun.m3u8, tag=🇭🇰 [V1]香港直连 2
+vmess = 43.128.29.210:83, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk3.mfyun.org, obfs-uri=/mfyun.m3u8, tag=🇭🇰 [V1]香港直连 3
+vmess = 119.28.78.211:80, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk4.mfyun.org, obfs-uri=/mfyun.m3u8, tag=🇭🇰 [V1]香港直连 4
+vmess = 43.129.20.48:85, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk5.mfyun.org, obfs-uri=/ws, tag=🇭🇰 [V1]香港直连 5
+vmess = 129.226.100.41:84, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk6.mfyun.org, obfs-uri=/ws, tag=🇭🇰 [V1]香港直连 6
+vmess = 129.226.101.154:82, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk7.mfyun.org, obfs-uri=/ws, tag=🇭🇰 香港直连 7
+vmess = 43.128.29.76:84, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk1.mfyun.org, obfs-uri=/mfyun.m3u8, udp-relay=true, tag=🇭🇰 [V1]香港直连 1 2
+vmess = 129.226.100.230:87, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk2.mfyun.org, obfs-uri=/mfyun.m3u8, udp-relay=true, tag=🇭🇰 [V1]香港直连 2 2
+vmess = 43.128.29.210:83, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk3.mfyun.org, obfs-uri=/mfyun.m3u8, udp-relay=true, tag=🇭🇰 [V1]香港直连 3 2
+vmess = 119.28.78.211:80, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk4.mfyun.org, obfs-uri=/mfyun.m3u8, udp-relay=true, tag=🇭🇰 [V1]香港直连 4 2
+vmess = 43.129.20.48:85, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk5.mfyun.org, obfs-uri=/ws, udp-relay=true, tag=🇭🇰 [V1]香港直连 5 2
+vmess = 129.226.100.41:84, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk6.mfyun.org, obfs-uri=/ws, udp-relay=true, tag=🇭🇰 [V1]香港直连 6 2
+vmess = 129.226.101.154:82, method=chacha20-ietf-poly1305, password=9e3c5e4c-cc8e-37d6-b262-d634b588ecd6, obfs=ws, obfs-host=hk7.mfyun.org, obfs-uri=/ws, udp-relay=true, tag=🇭🇰 香港直连 7 2
+shadowsocks = airport.jasontian.org:10086, method=chacha20-ietf, password=GUIGd7qC5YGKh06s, tag=Jasontian’s Cloud Services - 部分节点可能暂时无法使用，请等待修复！
+shadowsocks = airport.jasontian.org:10086, method=chacha20-ietf, password=GUIGd7qC5YGKh06s, tag=🏳️‍🌈 ️‍🌈 ️‍🌈 ️‍🌈 ️‍🌈 Jasontian’s Cloud Services - 过期时间：2021-06-15
+vmess = airport.jasontian.org:10086, method=chacha20-ietf-poly1305, password=94964d49-1f73-3b5a-b857-efac284ae6cb, tag=部分节点可能暂时无法使用，请等待修复！
+vmess = airport.jasontian.org:10086, method=chacha20-ietf-poly1305, password=94964d49-1f73-3b5a-b857-efac284ae6cb, tag=🏳️‍🌈 ️‍🌈 ️‍🌈 ️‍🌈 ️‍🌈 过期时间：2021-06-15
+vmess = disk.imjt.vip:2096, method=chacha20-ietf-poly1305, password=94964d49-1f73-3b5a-b857-efac284ae6cb, obfs=wss, obfs-host=disk.imjt.vip, obfs-uri=/mail/mymail/93475hdrigh, tag=🇺🇲 美国 CloudFlare CDN加速节点（V2ray），源节点带宽1Gbps
+trojan = mum.nat.imjt.vip:10305, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=mum.nat.imjt.vip, tag=🇮🇳 印度 孟买 普通线路，低配NAT机，1Gbps带宽
+trojan = sg.nat.imjt.vip:10215, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=sg.nat.imjt.vip, tag=🇸🇬 新加坡 普通优化线路，低配NAT机，1Gbps带宽
+trojan = jp.nat.imjt.vip:17806, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=jp.nat.imjt.vip, tag=🇯🇵 日本 东京 联通电信友好型线路，低配NAT机，1Gbps带宽
+trojan = zrh.nat.imjt.vip:12305, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=zrh.nat.imjt.vip, tag=🇨🇭 瑞士 苏黎世 普通优化线路（电信较慢），低配NAT机，1Gbps带宽
+trojan = ec2-54-223-120-161.cn-north-1.compute.amazonaws.com.cn:29739, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=zrh.nat.imjt.vip, tag="🇨🇭 瑞士 苏黎世 由AWS北京中转 低配NAT落地机,500Mbps峰值带宽"
+trojan = gy.nkeo.top:55832, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=zrh.nat.imjt.vip, tag="🇨🇭 瑞士 苏黎世 由广港隧道中转 稳定高速！低配NAT落地机,500Mbps峰值带宽"
+vmess = disk.imjt.vip:2096, method=chacha20-ietf-poly1305, password=94964d49-1f73-3b5a-b857-efac284ae6cb, obfs=wss, obfs-host=disk.imjt.vip, obfs-uri=/mail/mymail/93475hdrigh, udp-relay=true, tag=🇺🇲 美国 CloudFlare CDN加速节点（V2ray），源节点带宽1Gbps 2
+trojan = lax.nat.imjt.vip:13305, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=lax.nat.imjt.vip, tag=🇺🇲 美国 洛杉矶 普通直连线路，低配NAT机，1Gbps带宽
+trojan = gy.nkeo.top:55798, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=lax.nat.imjt.vip, tag="🇭🇰 美国 洛杉矶 由广港隧道中转 高速低延迟！ 低配NAT落地机,500Mbps峰值带宽"
+trojan = la2.imjt.vip:443, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=la2.imjt.vip, tag=🇺🇲 美国 洛杉矶，CN2 GT高速线路（三网直连），1Gbps带宽
+trojan = gy.nkeo.top:55687, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=la2.imjt.vip, tag="🇭🇰 美国 洛杉矶CN2 由广港隧道中转 轻松拉满网速！ 高配落地机,500Mbps峰值带宽"
+trojan = ny.nat.imjt.vip:15305, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=ny.nat.imjt.vip, tag=🇺🇲 美国 纽约 普通线路，低配NAT机，1Gbps带宽
+trojan = ec2-54-223-120-161.cn-north-1.compute.amazonaws.com.cn:16089, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=ny.nat.imjt.vip, tag="🇺🇲 美国 纽约 由AWS北京中转 稳定高速！低配NAT落地机,500Mbps峰值带宽"
+trojan = gy.nkeo.top:55039, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=ny.nat.imjt.vip, tag="🇭🇰 美国 纽约 由广港隧道中转 稳定高速！低配NAT落地机,500Mbps峰值带宽"
+trojan = mia.nat.imjt.vip:14411, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=mia.nat.imjt.vip, tag=🇺🇲 美国 迈阿密 普通直连线路，低配NAT机，1Gbps带宽
+trojan = gy.nkeo.top:55277, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=mia.nat.imjt.vip, tag="🇭🇰 美国 迈阿密 由广港隧道中转 稳定高速！低配NAT落地机,500Mbps峰值带宽"
+trojan = nl.nat.imjt.vip:17105, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=nl.nat.imjt.vip, tag=🇳🇱 荷兰 弗莱福兰 普通线路，低配NAT机，1Gbps带宽
+trojan = ec2-54-223-120-161.cn-north-1.compute.amazonaws.com.cn:16900, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=nl.nat.imjt.vip, tag="🇳🇱 荷兰 弗莱福兰 由AWS北京中转 稳定高速！低配NAT落地机,500Mbps峰值带宽\t"
+trojan = gy.nkeo.top:55561, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=nl.nat.imjt.vip, tag="🇭🇰 荷兰 弗莱福兰 由广港隧道中转 稳定高速！低配NAT落地机,500Mbps峰值带宽\t"
+trojan = hkt.nat.imjt.vip:44141, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=hkt.nat.imjt.vip, tag=🇭🇰 香港 HKT商宽 可解锁各种流媒体 PCCW顶级线路  1Gbps峰值带宽
+trojan = hk.nat.imjt.vip:10505, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=hk.nat.imjt.vip, tag=🇭🇰 香港 三网直连低延迟高质量BGP线路 可用于游戏加速 50Mbps带宽
+trojan = gy.nkeo.top:55010, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=hk.nat.imjt.vip, tag="🇭🇰 香港 低带宽 由广港隧道中转 NAT落地机,50Mbps峰值带宽"
+trojan = hkg.nat.imjt.vip:15605, password=94964d49-1f73-3b5a-b857-efac284ae6cb, over-tls=true, tls-host=hkg.nat.imjt.vip, tag=🇭🇰 香港 高速高延迟型普通线路，低配NAT机，1Gbps带宽
+vmess = 127.0.0.1:80, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=127.0.0.1, obfs-uri=/, udp-relay=true, tag=🇸🇬 及时更新订阅
+vmess = 127.0.0.1:80, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=127.0.0.1, obfs-uri=/, udp-relay=true, tag=ping不出来不代表没网
+vmess = 127.0.0.1:80, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=127.0.0.1, obfs-uri=/, udp-relay=true, tag=公告里面有TG群组
+vmess = 13.70.26.39:80, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=13.70.26.39, obfs-uri=/, udp-relay=true, tag=🇭🇰 [1x倍率]AZ香港①-直连80
+vmess = free.ldfly.cn:80, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=free.ldfly.cn, obfs-uri=/, udp-relay=true, tag=🇨🇳 [1x倍率]AZ北京G口-直连80|免流
+vmess = 18.163.193.189:80, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=18.163.193.189, obfs-uri=/, udp-relay=true, tag=🇭🇰 [1x倍率]AWS香港①-直连80
+vmess = 18.162.48.105:80, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=18.162.48.105, obfs-uri=/, udp-relay=true, tag=🇭🇰 [1x倍率]AWS香港②-直连80
+vmess = 18.162.124.199:80, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=18.162.124.199, obfs-uri=/, udp-relay=true, tag=🇭🇰 [1x倍率]AWS香港③-直连80
+vmess = 127.0.0.1:80, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=127.0.0.1, obfs-uri=/, udp-relay=true, tag=下面为中转节点
+vmess = free-bj.ldfly.cn:10000, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=free-bj.ldfly.cn, obfs-uri=/, udp-relay=true, tag=🇭🇰 [1x倍率]AWS香港①-中转|解锁香港NF
+vmess = free-bj.ldfly.cn:10001, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=free-bj.ldfly.cn, obfs-uri=/, udp-relay=true, tag=🇭🇰 [1x倍率]AWS香港②-中转|解锁香港NF
+vmess = free-bj.ldfly.cn:10002, method=chacha20-ietf-poly1305, password=b82ac5c6-bfc7-40c0-a05e-82bbf91257dc, obfs=ws, obfs-host=free-bj.ldfly.cn, obfs-uri=/, udp-relay=true, tag=🇭🇰 [1x倍率]AWS香港③-中转|解锁香港NF
+shadowsocks = dog.gkd.world:10686, method=aes-256-cfb, password=tFlIIS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=11443:j8ataZ, obfs=http_simple, obfs-host=.www.bing.com, tag=🇷🇺 VIP1  俄罗斯远东
+shadowsocks = cu.newhost.cc:10691, method=aes-256-cfb, password=tFlIIS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=11443:j8ataZ, obfs=http_simple, obfs-host=.www.bing.com, tag=🇮🇳 VIP1  印度孟买-高速
+shadowsocks = cu.newhost.cc:10694, method=aes-256-cfb, password=tFlIIS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=11443:j8ataZ, obfs=http_simple, obfs-host=.www.bing.com, tag=🇺🇲 VIP1  美国-优化
